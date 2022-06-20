@@ -14,7 +14,7 @@ App = {
         petTemplate.find('.pet-breed').text(data[i].breed);
         petTemplate.find('.pet-age').text(data[i].age);
         petTemplate.find('.pet-location').text(data[i].location);
-        petTemplate.find('.btn-order').attr('data-id', data[i].id);
+        petTemplate.find('.btn-adopt').attr('data-id', data[i].id);
 
         petsRow.append(petTemplate.html());
       }
@@ -40,16 +40,16 @@ App = {
   },
 
   bindEvents: function() {
-    $(document).on('click', '.btn-order', App.handleOrder);
+    $(document).on('click', '.btn-adopt', App.handleAdopt);
   },
 
-  markOrdered: function() {
+  markAdopted: function() {
     /*
      * Replace me...
      */
   },
 
-  handleOrder: function(event) {
+  handleAdopt: function(event) {
     event.preventDefault();
 
     var petId = parseInt($(event.target).data('id'));
