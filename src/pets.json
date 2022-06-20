@@ -1,130 +1,130 @@
 [
   {
     "id": 0,
-    "name": "Frieda",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Lisco, Alabama"
+    "name": "caffe-americano",
+    "picture": "images/caffe-americano.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
   },
   {
     "id": 1,
-    "name": "Gina",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Tooleville, West Virginia"
-  },
+    "name": "caffe-latte",
+    "picture": "images/caffe-latte.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
+    },
   {
     "id": 2,
-    "name": "Collins",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
+    "name": "caffe-mocha",
+    "picture": "images/caffe-mocha.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
     "location": "Freeburn, Idaho"
   },
   {
     "id": 3,
-    "name": "Melissa",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
+    "name": "cappuccino",
+    "picture": "images/cappuccino.jpeg",
+    "age": 2.99,
     "breed": "Boxer",
-    "location": "Camas, Pennsylvania"
+    "location": "Yes"
   },
   {
     "id": 4,
-    "name": "Jeanine",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
+    "name": "caramel-espresso-frappuccino",
+    "picture": "images/caramel-espresso-frappuccino.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
     "location": "Gerber, South Dakota"
   },
   {
     "id": 5,
-    "name": "Elvia",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Innsbrook, Illinois"
+    "name": "caramel-macchiato",
+    "picture": "images/caramel-macchiato.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
   },
   {
     "id": 6,
-    "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Soudan, Louisiana"
+    "name": "espresso",
+    "picture": "images/espresso.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
   },
   {
     "id": 7,
-    "name": "Coleman",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Jacksonwald, Palau"
+    "name": "flat-white",
+    "picture": "images/flat-white.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
   },
   {
     "id": 8,
-    "name": "Nichole",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Honolulu, Hawaii"
+    "name": "green-tea-frappuccino",
+    "picture": "images/green-tea-frappuccino.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
   },
   {
     "id": 9,
-    "name": "Fran",
-    "picture": "images/boxer.jpeg",
-    "age": 3,
-    "breed": "Boxer",
-    "location": "Matheny, Utah"
+    "name": "hazelnut-flavored-latte",
+    "picture": "images/hazelnut-flavored-latte.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
   },
   {
     "id": 10,
-    "name": "Leonor",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
-    "breed": "Boxer",
-    "location": "Tyhee, Indiana"
+    "name": "mango-passion-tea.jpeg",
+    "picture": "images/mango-passion-tea.jpeg.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
   },
   {
     "id": 11,
-    "name": "Dean",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Windsor, Montana"
+    "name": "mocha-frappuccino.jpeg",
+    "picture": "images/mocha-frappuccino.jpeg.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
   },
   {
     "id": 12,
-    "name": "Stevenson",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
+    "name": "mocha-java-chip-frappuccino",
+    "picture": "images/mocha-java-chip-frappuccino.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
     "location": "Kingstowne, Nevada"
   },
   {
     "id": 13,
-    "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 4,
-    "breed": "Golden Retriever",
-    "location": "Sultana, Massachusetts"
+    "name": "signature-chocolate-beverage",
+    "picture": "images/signature-chocolate-beverage.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
   },
   {
     "id": 14,
-    "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Broadlands, Oregon"
+    "name": "vanilla-flavored-cream-frappuccino-blended-beverage",
+    "picture": "images/vanilla-flavored-cream-frappuccino-blended-beverage.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
   },
   {
     "id": 15,
-    "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Dawn, Wisconsin"
+    "name": "vanilla-flavored-latte",
+    "picture": "images/vanilla-flavored-latte.jpeg",
+    "age": 2.99,
+    "breed": "200 Calorie",
+    "location": "Yes"
   }
 ]
